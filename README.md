@@ -28,6 +28,6 @@
 ### 📚 멤버
 |  | 민주 | 지원                                                              |
 |----|------|-----------------------------------------------------------------|
-| 프로필 | <img src="https://github.com/min-99.png" width="100" /> | <img src="https://github.com/moonlight-duck.png" width="100" /> |
-| 깃헙 | [min-99](https://github.com/min-99) | [moonlight-duck](https://github.com/moonlight-duck)           |
+| 프로필 | <img src="https://github.com/min-99.png" width="100" /> | <img src="https://github.com/by-olivia.png" width="100" /> |
+| 깃헙 | [min-99](https://github.com/min-99) | [by-olivia](https://github.com/by-olivia)           |
 | 언어 | TypeScript | Java                                                            |
