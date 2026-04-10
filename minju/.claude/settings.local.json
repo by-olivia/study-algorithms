@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "WebFetch(domain:www.acmicpc.net)",
+      "Bash(npx vitest:*)",
+      "Bash(pnpm run:ba 1629)"
+    ]
+  }
+}
